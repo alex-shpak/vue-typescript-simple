@@ -1,0 +1,6 @@
+@import '~bootstrap/scss/bootstrap';
+{{#bootstrapvue}}
+@import '~bootstrap-vue/dist/bootstrap-vue.css';
+{{/bootstrapvue}}
+
+// Put your bootstrap css overrides here
